@@ -1,0 +1,3 @@
+Nome: Vinicius
+ Idade: 19
+ Altura: 1.76
