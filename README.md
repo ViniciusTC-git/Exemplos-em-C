@@ -1,2 +1,2 @@
 # Exemplos-em-C
-2 semestre matéria resolução de problemas
+2º período matéria resolução de problemas exemplos em c
